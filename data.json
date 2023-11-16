@@ -1,0 +1,26 @@
+{"intents": [
+    {"tag": "summer",
+    "patterns": ["summer wear","hot season","light wear","recommend me a summer outfit","give me some summer clothing","summer"],
+    "responses": ["Cotton clothes","Light coloured clothing","cotton clothes paired with hat","light coloured clothes with hat"]},
+
+    {"tag": "casual",
+    "patterns": ["recommend me casual outfits","clothes for casual occasion","casual wear","give me some casual clothes ","casual mood wear"],
+    "responses": ["light  tshirt with dark pants/jeans","dark tshirt with dark/grey pants","casual shirt and shorts"]},
+
+    {"tag": "formal",
+    "patterns": ["recommend me formal outfits","clothes for formal occasion","formal wear","give me some formal clothes ","formal mood wear"],
+    "responses": ["Suit without tie","suit with tie","tucked in shirt and pant with tie","tucked in shirt and pant without tie"]},
+
+    {"tag": "winter",
+    "patterns":["winter wear","cold season","warm wear","recommend me a winter outfit","give me some winter clothing","winter"],
+    "responses":["Sweater","Woolen sweater","combine with shawl","wear woolen cap","overcoat","dark coloured clothes"]},
+
+    {"tag": "date",
+    "patterns":["recommend me date outfits","clothes for date night","date wear"],
+    "responses":["formal suit","formal shirt and pant","turtleneck sweater with jeans","jacket with tshirt and jeans"]},
+    
+    {"tag": "beach",
+    "patterns":["recommend me beach outfits","clothes for beach","beach wear","give me some beach clothes "],
+    "responses":["tshirt and shorts","swimsuit"]}
+
+]}
